@@ -11,3 +11,9 @@ export default App2
 // const App2 = () => {
 //     return <h1>Olá, Mundo!</h1>;
 //   };
+
+// {Array(items)
+//   .fill()
+//   .map((currentValue, index) => (
+//     <SingleItem key={`${title}-${index}`}/>
+//   ))}
