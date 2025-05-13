@@ -3,7 +3,7 @@ import SingleItem from "./SingleItem";
 import { Link, useLocation } from "react-router-dom";
 
 const ItemList = ({ title, items, itemsArray, path, idPath }) => {
-  // console.log(items);
+  console.log(items);
   // console.log(useLocation());
   // const pathname = useLocation().pathname;
   const { pathname } = useLocation();
